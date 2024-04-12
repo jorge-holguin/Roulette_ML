@@ -1,43 +1,45 @@
+
 # Lightning Roulette ML Predictor
 
-## Descripción
+## Description
 
-Este proyecto es un script de Python diseñado para ejecutar un modelo de aprendizaje automático que juega a la ruleta Lightning Roulette. A través de su modelo predictivo, el script busca maximizar las probabilidades de ganar, proporcionando al usuario una ventaja única en el juego.
+This project is a Python script designed to run a machine learning model that plays Lightning Roulette. Through its predictive model, the script seeks to maximize the odds of winning, providing the user with a unique advantage in the game.
 
 <p align="center">
   <img src="images\script_roulette.webp" alt="Machine Learning Roulette">
 </p>
 
-## Características del Modelo
+## Model Features
 
-- **Predicción de Números Ganadores**: Utiliza datos históricos y algoritmos avanzados para predecir los números más probables.
-- **Interfaz Amigable**: Fácil de usar, incluso para aquellos sin experiencia en machine learning o programación.
+- **Winning Number Prediction**: Uses historical data and advanced algorithms to predict the most likely numbers.
+- **User-Friendly Interface**: Easy to use, even for those without experience in machine learning or programming.
 
-## Requisitos
+## Requirements
 
-- Python 3.8 o superior
-- Bibliotecas: numpy, scikit-learn
+- Python 3.8 or higher
+- Libraries: numpy, scikit-learn
 
-## Instalación
+## Installation
 
-1. Clonar el repositorio:
+1. Clone the repository:
 ```
-git clone https://github.com/tu_usuario/lightning-roulette-ml.git
+git clone https://github.com/jorge-holguin/lightning-roulette-ml.git
 ```
 
-## Instalar las dependencias:
+## Install dependencies:
 ```
 pip install numpy
 pip install scikit-learn
 ```
 
-## Uso
-Para ejecutar el script y comenzar a jugar, simplemente corre:
+## Usage
+To run the script and start playing, simply run:
 ```
 python roulette_prediction.py
 ```
 
-A continuación, sigue las instrucciones en pantalla para ingresar tus apuestas y ver las predicciones del modelo.
+Then follow the on-screen instructions to enter your bets and see the model's predictions.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for more details.
+
